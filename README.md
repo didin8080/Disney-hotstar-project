@@ -279,7 +279,7 @@ pipeline{
 
 
 <div align="center">
-<img src="img/hotstar.png" alt="Logo" height="100%" width="100%">
+<img src="img/hotstar.png" alt="Logo" height="500%" width="100%">
 <p align="center"> Home Page </p>
 </div>
 
