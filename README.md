@@ -284,7 +284,7 @@ pipeline{
 </div>
 
 
-**Application is Deployed on Docker**
+**Application is Deployed on Docker** 
 
 
 
